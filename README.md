@@ -43,4 +43,4 @@ To demonstrate practical skills in AI-powered email classification, workflow aut
 
 Below is a screenshot of the AI Email Classification workflow built with n8n.
 
-![AI Email Classification Workflow](তোমার-screenshot-file-name.png)
+![AI Email Classification Workflow](<Screenshot (319).png>)
